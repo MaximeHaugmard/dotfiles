@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = haugmardmaxime@gmail.com
+	name = Maxime Haugmard
